@@ -1,2 +1,0 @@
-Questão 3 - Lista 2 da Semana 4
-Resposta: O código solicita que o usuário digite um valor. Atribuindo um valor a n, por exemplo, o 4: o externo "i" vai de 1 a 4. O interno "j" começa no valor atual de i e decrementa até 1, imprimindo o valor de j a cada passo.

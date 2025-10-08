@@ -1,2 +1,0 @@
-Questão 4 - Lista 2 da Semana 4
-Resposta: Assumindo o valor 3 para n, o laço externo (i) vai de 1 a 3. O laço interno (j) também vai de 1 a 3. A cada iteração, ele imprime a soma de i + j.

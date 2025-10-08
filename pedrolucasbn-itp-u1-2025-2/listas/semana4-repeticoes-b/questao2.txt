@@ -1,2 +1,0 @@
-Questão 2 - Lista 2 da Semana 4
-Resposta: O código primeiro solicita que o usuário digite um número para n. Vamos assumir um valor para n, por exemplo, o usuário digita 2 para n. O externo "i" vai de 1 a 2. O interno "j" vai de 1 até o valor atual de i, e a cada repetição do laço interno, ele imprime o valor atual de j.

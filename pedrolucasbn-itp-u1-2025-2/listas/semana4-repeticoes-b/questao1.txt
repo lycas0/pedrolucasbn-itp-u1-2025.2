@@ -1,4 +1,0 @@
-Questão 1 - Lista 2 da Semana 4
-Resposta: O externo "i" vai se repetir 5 vezes, e dentro dele está o interno "j", que se repete 4 vezes, e a cada repetição
-do interno, ele imprime o valor atual de "j". Então, já que j < 4, vão se repetir os números 0, 1, 2 e 3. O printf("\n") é
-uma quebra de linha que vem a ser executado logo depois.
